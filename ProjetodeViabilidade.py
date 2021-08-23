@@ -180,3 +180,5 @@ while True:  # Event Loop
 
     if window == janela1 and event == sg.WINDOW_CLOSED or 'Sair':
         break
+
+
